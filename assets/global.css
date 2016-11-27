@@ -1,0 +1,21 @@
+.research-app .app-loading {
+  text-align: center;
+  margin-top: 100px;
+  font-style: italic;
+  color: gray;
+  line-height: 20px;
+}
+
+.research-app .app-loading .loading-icon {
+  background-image: url("gif-load.gif");
+  width: 20px;
+  height: 20px;
+  background-size: 20px 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.research-app .app-loading .loading-text {
+  vertical-align: middle;
+  display: inline-block;
+}
